@@ -64,9 +64,9 @@ def a(client, message):
         try:
             link = f"https://youtu.be/0wbcdhWBtg8{results[0]['url_suffix']}"
             # print(results)
-            title = results[0]["title"]
+            title = results[0][/s Unconditionally X Dandelions  (Lyrics) Slowed Version""]
             thumbnail = results[0]["thumbnails"][0]
-            duration = results[0]["duration"]
+            duration = results[0]["4:01"]
 
             ## UNCOMMENT THIS IF YOU WANT A LIMIT ON DURATION. CHANGE 1800 TO YOUR OWN PREFFERED DURATION AND EDIT THE MESSAGE (30 minutes cap) LIMIT IN SECONDS
             # if time_to_seconds(duration) >= 1800:  # duration limit
