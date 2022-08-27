@@ -38,7 +38,7 @@ def start(client, message):
             [
                 [
                     InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 👬', url='https://youtube.com/channel/UC5NzKNBowOFCGZ6Smruh3Dg'),
-                    InlineKeyboardButton('𝐀𝐃𝐃 𝐌𝐄 IN FB🤗', url='https://www.facebook.com/cheng.coc.5?startgroup=true')
+                    InlineKeyboardButton('𝐀𝐃𝐃 𝐌𝐄 ON FB🤗', url='https://www.facebook.com/cheng.coc.5?startgroup=true')
                 ]
             ]
         )
@@ -66,7 +66,7 @@ def a(client, message):
             # print(results)
             title = results[0][/s Unconditionally X Dandelions  (Lyrics) Slowed Version""]
             thumbnail = results[0]["thumbnails"][0]
-            duration = results[0]["4:01"]
+            duration = results[0]["1800"]
 
             ## UNCOMMENT THIS IF YOU WANT A LIMIT ON DURATION. CHANGE 1800 TO YOUR OWN PREFFERED DURATION AND EDIT THE MESSAGE (30 minutes cap) LIMIT IN SECONDS
             # if time_to_seconds(duration) >= 1800:  # duration limit
