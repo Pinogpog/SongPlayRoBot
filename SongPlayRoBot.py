@@ -64,7 +64,7 @@ def a(client, message):
         try:
             link = f"https://youtu.be/qdpXxGPqW-Y{results[1]['url_suffix']}"
             # print(results)
-            title = results[0][/s "Alan Walker-Faded(Lyrics)"]
+            title = results[0][/s "Alan Walker-Faded (Lyrics)"]
             thumbnail = results[0]["thumbnails"][0]
             duration = results[0]["1800"]
 
