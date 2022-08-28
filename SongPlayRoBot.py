@@ -46,7 +46,7 @@ def start(client, message):
 
 @bot.on_message(filters.command(['s']))
 def a(client, message):
-    query = ''
+    query = '
     for i in message.command[1:]:
         query += ' ' + str(i)
     print(query)
